@@ -1,14 +1,3 @@
-- 👋 Hi, I’m @csefrassia
-- 👀 I’m interested in AI, ML, Big Data, Web Security
-- 🌱 I’m currently learning ZAP, Burp
-- 💞️ I’m looking to collaborate on Security projects
-- 📫 sebastian@frassia.com
-
-<!---
-csefrassia/csefrassia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 # Welcome to My GitHub Profile!
 
 ## 👋 Hi, I'm Sebastian, a Passionate Full Stack Engineer
@@ -40,9 +29,9 @@ With over a decade of experience in the tech industry, I've honed my skills in a
 
 ### 📫 How to Reach Me
 
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/sebastian-f-0535b047)
+- **LinkedIn:** [Sebastian Frassia](https://www.linkedin.com/in/sebastian-f-0535b047)
 - **Email:** [sebastian@frassia.com](mailto:sebastian@frassia.com)
-- **Portfolio:** [Website](https://www.frassia.com)
+- **Portfolio:** [www.frassia.com](https://www.frassia.com)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
 
