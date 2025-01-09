@@ -1,6 +1,5 @@
 #
 <img src="https://media.licdn.com/dms/image/v2/C4E16AQGg8ewNhxm7yQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1599749527214?e=1741824000&v=beta&t=a_FjgthtEM6dODY2hFNu5onjKJ8HrKk3Q5OAk3a-5q8" />
-#
 
 ## 👋 Hello, I’m Sebastian — Software Engineer
 
